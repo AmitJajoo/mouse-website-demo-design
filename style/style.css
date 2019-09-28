@@ -1,0 +1,98 @@
+                            * {
+                                padding: 0;
+                                margin: 0;
+                            }
+                            
+                            html {
+                                scroll-behavior: smooth;
+                            }
+                            
+                            .navbar-nav li {
+                                padding-left: 20px;
+                            }
+                            
+                            #navbarNav li a {
+                                color: white !important;
+                            }
+                            
+                            #navbarNav li a:hover {
+                                background-color: white;
+                                color: #007BFF !important;
+                            }
+                            
+                            .bx-wrapper {
+                                border: 0px !important;
+                            }
+                            
+                            .product-photo {
+                                width: 250px;
+                                padding-left: 14px;
+                                padding-right: 14px;
+                                /* box-shadow: 0px 4px 8px #ccc; */
+                            }
+                            
+                            .product-photo img {
+                                width: 100%;
+                                margin-top: 30px;
+                                margin-bottom: 30px;
+                            }
+                            
+                            .product-photo button {
+                                text-align: center;
+                                margin: 0 auto;
+                            }
+                            
+                            .bx-pager-link {
+                                display: none !important;
+                            }
+                            
+                            .bx-next,
+                            .bx-prev {
+                                color: white !important;
+                                border: none !important;
+                            }
+                            
+                            #about,
+                            .product {
+                                font-family: 'Poppins', sans-serif;
+                                font-size: 50px;
+                                color: #049ccf;
+                                font-weight: bold;
+                            }
+                            
+                            address {
+                                margin-bottom: 0;
+                            }
+                            
+                            .text-white {
+                                color: white;
+                                font-size: 30px;
+                                font-family: font-family: 'Poppins', sans-serif;
+                            }
+                            
+                            .contact {
+                                margin-top: 30px;
+                            }
+                            
+                            .fa.facebook,
+                            .fa.twitter,
+                            .fa.github {
+                                color: white;
+                                font-size: 25px;
+                                padding: 5px;
+                            }
+                            
+                            .facebook:hover,
+                            .twitter:hover,
+                            .github:hover {
+                                color: purple;
+                            }
+                            
+                            p {
+                                font-size: 16px;
+                            }
+                            
+                            #product-cont {
+                                margin-bottom: 80px;
+                                margin-top: 80px;
+                            }
